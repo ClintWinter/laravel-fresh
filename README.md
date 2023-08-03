@@ -70,10 +70,7 @@ Change `PermitRootLogin yes` to `PermitRootLogin no`.
 
 ## Project Environment
 
-
 ### Dependencies
-
-With git working, clone the project into your project folder.
 
 We still need composer, PHP, MySQL, etc. Let's figure out how to get all that:
 
@@ -81,7 +78,7 @@ https://laravel.com/docs/10.x/deployment#server-requirements
 
 #### TL;DR
 
-There's a lot in these next subsections that cover each and every depedency needed to get PHP up and running. I'm dropping a reference here so you can speed through it the next time you're here:
+There's a lot happening in the following subsections that cover each and every depedency needed to get PHP up and running. I'm dropping a reference here so you can speed through it the next time you're here:
 
 ```
 $ sudo add-apt-repository ppa:ondrej/php
