@@ -516,3 +516,5 @@ There's also more we can do:
 * We can take steps to make the server more secure like using a firewall to ensure unused ports are disabled.
 * We can do primitive CI/CD to update the project when master is updated.
 * We can ensure we keep the server up-to-date and healthy automatically.
+
+It's no wonder cloud and container solutions have become so popular. Doing this stuff is annoying and kind of a waste of your precious time as someone who wants to build things.
